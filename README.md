@@ -1,5 +1,5 @@
 # Artist Search App
-## API by: https://www.theaudiodb.com/api_guide.php
+## API by https://www.theaudiodb.com/api_guide.php
 
 [View the live deployment here](https://artistbiosearch.netlify.app)
 
